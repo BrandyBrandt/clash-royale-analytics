@@ -1,0 +1,9 @@
+card_name	count
+Barbarians	67
+Giant	16
+Goblin Hut	3
+Mini P.E.K.K.A	590
+P.E.K.K.A	43
+Valkyrie	1
+Witch	14
+Wizard	28

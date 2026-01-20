@@ -1,0 +1,16 @@
+card_name	count
+Battle Ram	89
+Giant	83
+Goblin Barrel	79
+Hog Rider	22
+Knight	30
+Lumberjack	29
+Mini P.E.K.K.A	82
+Minions	1
+Mortar	8
+P.E.K.K.A	135
+Princess	103
+Royal Hogs	3
+Witch	96
+Wizard	1
+NA	2
