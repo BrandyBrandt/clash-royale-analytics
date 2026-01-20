@@ -157,6 +157,8 @@ If charts don't render:
 3. Review browser console for JavaScript errors
 4. Try running individual visualization scripts in `kody_czesciowe/`
 
+📚 **[More Help → FAQ](FAQ.md)**
+
 ## 🤝 Contributing
 
 This was a university project, but suggestions and improvements are welcome! Feel free to:
