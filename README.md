@@ -168,6 +168,8 @@ This was a university project, but suggestions and improvements are welcome! Fee
 
 This project was created for educational purposes. All Clash Royale assets and trademarks belong to Supercell.
 
+The code is available under the [MIT License](LICENSE).
+
 ## 🙏 Acknowledgments
 
 - **Supercell** for creating Clash Royale
