@@ -15,6 +15,8 @@ This project was developed as part of a data visualization and analysis course a
 - Mateusz (Jamroż)
 - Karol (Kacprzak)
 
+📚 **[Full Contributors Details →](CONTRIBUTORS.md)**
+
 ## ✨ Features
 
 ### 📊 Interactive Visualizations
@@ -101,6 +103,8 @@ projectRoyale/
 └── www/                      # Web assets
 ```
 
+📖 **[Full Technical Documentation →](DOCUMENTATION.md)**
+
 ## 🎮 How to Use
 
 ### Navigation
@@ -157,6 +161,8 @@ This was a university project, but suggestions and improvements are welcome! Fee
 - Open issues for bugs or feature requests
 - Submit pull requests for fixes
 - Share your own Clash Royale data analysis ideas
+
+📋 **[View Roadmap →](ROADMAP.md)** | 👥 **[Contributors →](CONTRIBUTORS.md)**
 
 ## 📝 License
 
