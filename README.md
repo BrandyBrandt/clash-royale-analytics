@@ -6,6 +6,8 @@
 [![Shiny](https://img.shields.io/badge/Shiny-Dashboard-brightgreen.svg)](https://shiny.rstudio.com/)
 [![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow.svg)]()
 
+**👔 [Quick Overview for Recruiters →](FOR_RECRUITERS.md)**
+
 ## 📖 Overview
 
 This project was developed as part of a data visualization and analysis course at the University. The dashboard provides comprehensive insights into Clash Royale player statistics, including battle history, card usage patterns, trophy progression, and arena performance metrics.
